@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+@media screen and (max-width:476px) {
+    .LogoImage{
+        height: 52px!important;
+        padding-left: 30px!important;
+        width: 120px!important;
+        margin-bottom: 10px;
+    }
+    .break{
+        display: none!important;
+    }
+    .worldmapImage{
+        width: 285px!important;
+    }
+    .barchart{
+        width: 265px!important;
+    }
+    .css-hhdjsd-MuiContainer-root{
+        padding-left: 0px!important;
+        padding-right:0px!important;
+    }
+    .Input{
+        width: 85%!important;
+        padding: 10px 0px 10px 35px!important;
+        font-size: 14px!important;
+    }
+    .clipIcon{
+        left:13px!important;
+        font-size: 16px!important;
+    }
+    .inputField{
+        padding: 15px 10px!important;
+        max-width: 180px!important;
+    }
+    .plansImage{
+        width: 40px!important;
+        height: 40px!important;
+        margin: auto!important;
+        padding-top: 15px!important;
+    }
+    .profilelable{
+        font-size: 16px!important;
+    }
+}
+@media  (min-width:477px) and (max-width:769px) {
+    .LogoImage{
+        height: 62px!important;
+        padding-left: 500px!important;
+    }
+    .break{
+        display: none!important;
+    }
+
+.css-uitvrg {
+    padding-top: 0px;
+}
+.worldmapImage{
+    width: 100%!important;
+}
+  .barchart{
+    width: 100%!important;
+}
+.Input{
+    width: 95%!important;
+    padding: 15px 0px 15px 35px!important;
+    font-size: 14px!important;
+}
+.clipIcon{
+    left:13px!important;
+    font-size: 18px!important;
+}
+.navLogo{
+    padding-left: 30%!important;
+    width: 220px!important;
+}
+}
+@media screen and (max-width:321px){
+    .templateCardGrid{
+         padding:10px!important;
+    }
+    .Input{
+        width: 90%!important;
+        padding: 10px 0px 10px 35px!important;
+        font-size: 14px!important;
+    }
+    .clipIcon{
+        left:13px!important;
+        font-size: 16px!important;
+    }
+}
+.TabPanel{
+    padding: 0px!important;
+}
+.css-19kzrtu {
+    padding: 24px;
+}
